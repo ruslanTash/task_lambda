@@ -2,21 +2,6 @@
 import java.util.function.*;
 
 public class Main {
-//    interface Predicate {
-//        boolean func(Integer integer);
-//    }
-//
-//    interface Consumer {
-//        void sayHallo(String name);
-//    }
-//
-//    interface Function {
-//        Long around(Double x);
-//    }
-//
-//    interface Supplier {
-//        float random();
-//    }
 
     public static void main(String[] args) {
 //        task 1
